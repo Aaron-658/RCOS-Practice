@@ -1,5 +1,5 @@
 # RCOS-Practice
 # - Aaron Terron
-# - Photo
+# - photo.jpeg
 # - 2029
 # - Munchimaps
